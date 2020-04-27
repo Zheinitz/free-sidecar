@@ -9,10 +9,10 @@ assignees: ''
 
 Please fill in the template below to speed up the review process:
 
-**Mac model:**
-**iPad model:**
+**Mac model:** 2015 macbook air
+**iPad model:** iPad air 1
 
-**Mac version**:
-**iPad version**:
+**Mac version**: Catalina
+**iPad version**:ios 12.4
 
 **Comments:**
